@@ -1,2 +1,2 @@
-# business-ideas-api
-This is the API for Business Ideas
+# business-ideas-api.
+This is the API for Business Ideas.
